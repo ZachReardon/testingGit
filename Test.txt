@@ -2,3 +2,4 @@ Test file
 Rebase 1
 Rebase Script 1
 Rebase Script 1
+Rebase Script 1
