@@ -1,2 +1,3 @@
 Test file
 Rebase Script 3
+Rebase Script 3
