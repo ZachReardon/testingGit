@@ -2,3 +2,4 @@ Test file
 Initial Test 1
 Initial Test 1
 Initial Test 2
+Initial Test 3
