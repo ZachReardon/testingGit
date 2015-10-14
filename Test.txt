@@ -1,11 +1,1 @@
 Test file
-Testing Rebase 377024
-Testing git Reset 910679
-Testing Rebase 229415
-Testing git Reset 159772
-Testing Rebase 353606
-Testing git Reset 184732
-Testing Rebase 611476
-Testing git Reset 217401
-Testing Rebase 467675
-Testing git Reset 52608
