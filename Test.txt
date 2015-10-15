@@ -12,3 +12,4 @@ Testing git Reset 197087
 Testing Rebase 441968
 Testing git Reset 994218
 Initial Test 4
+Testing Rebase 689056
