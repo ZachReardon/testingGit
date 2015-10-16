@@ -3,3 +3,4 @@ Initial Test 4
 Testing Rebase 108606
 Testing git Reset 801685
 Testing Rebase 758444
+Testing git Reset 395519
