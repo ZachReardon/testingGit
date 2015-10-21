@@ -12,3 +12,4 @@ Testing Rebase 351160
 Testing git Reset 998756
 Testing Rebase 685906
 Testing git Reset 610366
+Initial Test 4
